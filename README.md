@@ -1,6 +1,6 @@
 # minecraft-operator
 
-Minecraft operator. This is a personal learning project. Feel free to copy & modify as you like, but please don't raise any issues here, I won't look at them and I don't take responsibility if it spontaneously combusts your pet tiger.
+Minecraft operator. This is a personal learning project. Feel free to copy & modify as you like, but please don't raise any issues here, I won't look at them and I don't take responsibility if it spontaneously combusts your cat.
 
 ## Description
 
