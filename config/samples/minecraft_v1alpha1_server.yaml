@@ -1,0 +1,9 @@
+apiVersion: minecraft.k8s.learning.yodo.dev/v1alpha1
+kind: Server
+metadata:
+  name: server-example
+spec:
+  eula: true
+  active: true
+  motd: "Hallo Ballo!"
+  containerPort: 25565
